@@ -1,5 +1,5 @@
 # Notes
-George Shao (g3shao)
+George Shao
 
 ## Setup
 * Windows 11
