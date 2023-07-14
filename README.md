@@ -8,7 +8,6 @@ George Shao (g3shao)
 * Java SDK 17.0.2 (temurin)
 
 ## Basic
-I made a simple change to the Create button because Piazza question @74
 - Users cannot create empty notes for both the List and Grid views. But they can use space or blank lines to create blank notes. Only when the user enters the content the create button will change to the standard color, and the notes will be created.
 
 ## Enhancement 
