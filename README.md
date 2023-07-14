@@ -1,4 +1,4 @@
-# A1 Notes
+# Notes
 George Shao (g3shao)
 
 ## Setup
