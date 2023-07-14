@@ -1,5 +1,4 @@
 # Notes
-George Shao
 
 ## Setup
 * Windows 11
